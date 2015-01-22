@@ -1,0 +1,98 @@
+CodeBook
+
+"timeBodyAcc.mean.X"		Average of mean time accelerometer readings for signal X
+"timeBodyAcc.mean.Y”		Average of mean time accelerometer readings for signal Y
+"timeBodyAcc.mean.Z"		Average of mean time accelerometer readings for signal Z
+"timeBodyAcc.std.X"		Average of standard deviation time accelerometer readings for signal X
+"timeBodyAcc.std.Y"		Average of standard deviation time accelerometer readings for signal Y
+"timeBodyAcc.std.Z"		Average of standard deviation time accelerometer readings for signal Z
+"timeGravityAcc.mean.X"		Average of mean time gravity accelerometer readings for signal X
+"timeGravityAcc.mean.Y"		Average of mean time gravity accelerometer readings for signal Y
+"timeGravityAcc.mean.Z"		Average of mean time gravity accelerometer readings for signal Z
+"timeGravityAcc.std.X"		Average of standard deviation time gravity accelerometer readings for signal X
+"timeGravityAcc.std.Y"		Average of standard deviation time gravity accelerometer readings for signal Y
+"timeGravityAcc.std.Z"		Average of standard deviation time gravity accelerometer readings for signal Z
+"timeBodyAccJerk.mean.X"	Average of mean time body accelerometer jerk readings for signal X
+"timeBodyAccJerk.mean.Y"	Average of mean time body accelerometer jerk readings for signal Y
+"timeBodyAccJerk.mean.Z"	Average of mean time body accelerometer jerk readings for signal Z
+"timeBodyAccJerk.std.X"		Average of standard deviation time body accelerometer jerk readings for signal X
+“timeBodyAccJerk.std.Y"		Average of standard deviation time body accelerometer jerk readings for signal Y
+"timeBodyAccJerk.std.Z"		Average of standard deviation time body accelerometer jerk readings for signal Z
+"timeBodyGyro.mean.X"		Average of mean time body gyro readings for signal X
+"timeBodyGyro.mean.Y"		Average of mean time body gyro readings for signal Z
+"timeBodyGyro.mean.Z"		Average of mean time body gyro readings for signal Y
+"timeBodyGyro.std.X"		Average of standard deviation time body gyro readings for signal X
+"timeBodyGyro.std.Y"		Average of standard deviation time body gyro readings for signal Y
+"timeBodyGyro.std.Z"		Average of standard deviation time body gyro readings for signal Z
+"timeBodyGyroJerk.mean.X"	Average of mean time body gyro jerk readings for signal X
+"timeBodyGyroJerk.mean.Y"	Average of mean time body gyro jerk readings for signal Y
+"timeBodyGyroJerk.mean.Z"	Average of mean time body gyro jerk readings for signal Z
+"timeBodyGyroJerk.std.X"	Average of standard deviation time body gyro jerk readings for signal X
+"timeBodyGyroJerk.std.Y"	Average of standard deviation time body gyro jerk readings for signal Y
+"timeBodyGyroJerk.std.Z"	Average of standard deviation time body gyro jerk readings for signal Z
+"timeBodyAccMag.mean"		Average of mean time body acceleration magnitudes
+"timeBodyAccMag.std"		Average of standard deviation time body acceleration magnitudes
+"timeGravityAccMag.mean"	Average of mean time gravity acceleration magnitudes
+"timeGravityAccMag.std"		Average of standard deviation time gravity acceleration magnitudes
+"timeBodyAccJerkMag.mean”	Average of mean time body acceleration jerk magnitudes
+"timeBodyAccJerkMag.std"	Average of standard deviation time body acceleration jerk magnitudes
+"timeBodyGyroMag.mean"		Average of mean time body gyro magnitudes
+"timeBodyGyroMag.std"		Average of standard deviation time body gyro magnitudes
+"timeBodyGyroJerkMag.mean"	Average of mean time body gyro jerk magnitudes
+"timeBodyGyroJerkMag.std"	Average of standard deviation time body gyro jerk magnitudes
+"fastfourierBodyAcc.mean.X"	Average of mean Fast Fourier body acceleration readings for signal X
+"fastfourierBodyAcc.mean.Y"	Average of mean Fast Fourier body acceleration readings for signal Y
+"fastfourierBodyAcc.mean.Z"	Average of mean Fast Fourier body acceleration readings for signal Z
+"fastfourierBodyAcc.std.X"	Average of standard deviation Fast Fourier body acceleration readings for signal X
+"fastfourierBodyAcc.std.Y"	Average of standard deviation Fast Fourier body acceleration readings for signal Y
+"fastfourierBodyAcc.std.Z"	Average of standard deviation Fast Fourier body acceleration readings for signal Z
+"fastfourierBodyAcc.meanFreq.X"		Average of mean frequency Fast Fourier body acceleration readings for signal X
+"fastfourierBodyAcc.meanFreq.Y"		Average of mean frequency Fast Fourier body acceleration readings for signal Y
+"fastfourierBodyAcc.meanFreq.Z"		Average of mean frequency Fast Fourier body acceleration readings for signal Z
+"fastfourierBodyAccJerk.mean.X"		Average of mean Fast Fourier body acceleration jerk readings for signal X
+"fastfourierBodyAccJerk.mean.Y"		Average of mean Fast Fourier body acceleration jerk readings for signal Y
+"fastfourierBodyAccJerk.mean.Z"		Average of mean Fast Fourier body acceleration jerk readings for signal Z
+"fastfourierBodyAccJerk.std.X"		Average of standard deviation Fast Fourier body acceleration jerk readings for signal X
+"fastfourierBodyAccJerk.std.Y"		Average of standard deviation Fast Fourier body acceleration jerk readings for signal Y
+"fastfourierBodyAccJerk.std.Z"		Average of standard deviation Fast Fourier body acceleration jerk readings for signal Z
+"fastfourierBodyAccJerk.meanFreq.X”	Average of mean frequency Fast Fourier body acceleration jerk readings for signal X
+"fastfourierBodyAccJerk.meanFreq.Y"	Average of mean frequency Fast Fourier body acceleration jerk readings for signal Y
+"fastfourierBodyAccJerk.meanFreq.Z"	Average of mean frequency Fast Fourier body acceleration jerk readings for signal Z
+"fastfourierBodyGyro.mean.X"		Average of mean Fast Fourier body gyro readings for signal X
+"fastfourierBodyGyro.mean.Y"		Average of mean Fast Fourier body gyro readings for signal Y
+"fastfourierBodyGyro.mean.Z"		Average of mean Fast Fourier body gyro readings for signal Z
+"fastfourierBodyGyro.std.X"		Average of standard deviation Fast Fourier body gyro readings for signal X
+"fastfourierBodyGyro.std.Y"		Average of standard deviation Fast Fourier body gyro readings for signal Y
+"fastfourierBodyGyro.std.Z"		Average of standard deviation Fast Fourier body gyro readings for signal Z
+"fastfourierBodyGyro.meanFreq.X"	Average of mean frequency Fast Fourier body gyro readings for signal X
+"fastfourierBodyGyro.meanFreq.Y"	Average of mean frequency Fast Fourier body gyro readings for signal Y
+"fastfourierBodyGyro.meanFreq.Z"	Average of mean frequency Fast Fourier body gyro readings for signal Z
+"fastfourierBodyAccMag.mean"		Average of mean Fast Fourier body gyro magnitudes
+"fastfourierBodyAccMag.std"		Average of standard deviation Fast Fourier body gyro magnitudes
+"fastfourierBodyAccMag.meanFreq"	Average of mean frequency Fast Fourier body acceleration magnitudes
+"fastfourierBodyBodyAccJerkMag.mean”	Average of mean Fast Fourier body body acceleration jerk magnitudes
+"fastfourierBodyBodyAccJerkMag.std"	Average of standard deviation Fast Fourier body body acceleration jerk magnitudes
+"fastfourierBodyBodyAccJerkMag.meanFreq" 	Average of mean frequency Fast Fourier body body acceleration jerk magnitudes
+"fastfourierBodyBodyGyroMag.mean"	Average of mean Fast Fourier body body gyro magnitudes
+"fastfourierBodyBodyGyroMag.std"	Average of standard deviation Fast Fourier body body gyro magnitudes
+"fastfourierBodyBodyGyroMag.meanFreq"	Average of mean frequency Fast Fourier body body gyro magnitudes
+"fastfourierBodyBodyGyroJerkMag.mean" 	Average of mean Fast Fourier body body gyro jerk magnitudes
+"fastfourierBodyBodyGyroJerkMag.std"	Average of standard deviation Fast Fourier body body gyro jerk magnitudes
+"fastfourierBodyBodyGyroJerkMag.meanFreq”	Average of mean frequency Fast Fourier body body gyro jerk magnitudes
+"angletBodyAccMean.gravity"		Average of mean time body acceleration mean of angles
+"angletBodyAccJerkMean.gravityMean"	Average of mean time body acceleration jerk gravity mean of angles
+"angletBodyGyroMean.gravityMean"	Average of mean time body gyro gravity mean of angles
+"angletBodyGyroJerkMean.gravityMean"	Average of mean time body gyro jerk gravity mean of angles
+"angleX.gravityMean"			Average of gravity mean of angle X
+"angleY.gravityMean"			Average of gravity mean of angle Y
+"angleZ.gravityMean"			Average of gravity mean of angle Z
+"Subject"
+	Experiment subject no. from 1:30
+"Activity"
+	Activity undertaken during test
+	1. Walking
+	2. Walking Upstairs
+	3. Walking Downstairs
+	4. Sitting
+	5. Standing
+	6. Laying
